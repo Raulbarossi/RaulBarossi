@@ -16,8 +16,8 @@
 - 📫 reach me on <strong>raulb1007@gmail.com</strong></p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/raulbarossi" target="blank">
+<p align="center" style="text-decoration:none">
+  <a  href="https://linkedin.com/in/raulbarossi" style="text-decoration:none">
     <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="Linkedin Raul Barossi" height="40" width="auto"/>
   </a>
   <a href="https://pt.stackoverflow.com/users/283641/raul-barossi" target="blank">
@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/28351e659ef34a1bd03522b38175d51c9dbc580c/src/Docker.svg" alt="docker" width="auto" height="40"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/512px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601" alt="aws" width="auto" height="40"/> 
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="auto" height="35"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/> 
