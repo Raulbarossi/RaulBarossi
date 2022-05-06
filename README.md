@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raul Barossi</h1>
-<h3 align="center">A Programmer and Mechatronic engineer</h3>
+<h1 align="center">Hey u 👋, I'm Raul Barossi</h1>
+<h3 align="center">A Developer and Mechatronics Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=raulbarossi&label=Views&color=000000&style=plastic" alt="raulbarossi" /> 
