@@ -7,13 +7,13 @@
 <br>
 
 <p align="center"> 
-- 🔭 I’m currently working on <strong>Artani</strong></p>
+- 🔭 I’m currently working on <strong><a href="https://github.com/nrtsoftware/Artani">Artani</a></strong></p>
 <p align="center">
 - 🌱 I’m currently learning <strong>PHP, Laravel, and DevOps</strong></p>
 <p align="center">
 - 🤝 I’m looking for <strong>Job opportunities</strong></p>
 <p align="center">
-- 📫 reach me on <strong>raulb1007@gmail.com</strong></p>
+- 📫 reach me on <strong><a href="mailto:raulb1007@gmail.com">raulb1007@gmail.com</a></strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="text-decoration:none">
@@ -30,7 +30,7 @@
 <p align="center"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" alt="php" width="auto" height="40"/> 
-  </a> 
+  </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="auto" height="40"/> 
   </a> 
