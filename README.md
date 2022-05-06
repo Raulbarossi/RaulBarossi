@@ -4,15 +4,16 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=raulbarossi&label=Views&color=000000&style=plastic" alt="raulbarossi" /> 
 </p>
+<br>
 
 <p align="center"> 
 - 🔭 I’m currently working on <strong>Artani</strong></p>
 <p align="center">
 - 🌱 I’m currently learning <strong>PHP, Laravel, DevOps</strong></p>
 <p align="center">
-- 🤝 I’m looking for help with <strong>Job opportunities</strong></p>
+- 🤝 I’m looking for <strong>Job opportunities</strong></p>
 <p align="center">
-- 📫 How to reach me <strong>raulb1007@gmail.com</strong></p>
+- 📫 reach me on <strong>raulb1007@gmail.com</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -76,12 +77,9 @@
   <a href="https://www.linux.org/" target="_blaok" rel="noreferrer"> 
     <img fill="white" src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/ab05396168d6f6fc1b7ed9c087749a28ff3016ca/src/Linux.svg" alt="linux" width="40" height="40"/> 
   </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a>
   </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/267px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/3bb4708ad5e9efbec1d9a0d3047f8eb129aaf112/src/Matlab.svg" alt="matlab" width="auto" height="40"/> 
   </a> <br>
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
@@ -95,7 +93,6 @@
   </a>
 </p>
   
-<p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulbarossi&show_icons=true&theme=dark&locale=en&layout=compact" alt="raulbarossi" /></p>
-  
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raulbarossi&show_icons=true&theme=dark&locale=en&layout=compact" alt="raulbarossi" />
+</p>
