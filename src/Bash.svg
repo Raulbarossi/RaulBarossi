@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <svg height="91px" viewBox="0 0 91 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+=======
+<svg height="91px" viewBox="0 0 80 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+>>>>>>> cc2e6ed4bb994f521501d88133202e16ae28ad8f
     <g id="Page-1" stroke="white" stroke-width="1" fill="none" fill-rule="evenodd">
         <g transform="translate(0.000000, -1.000000)" id="Group-48">
             <g transform="translate(0.000000, 0.945000)">
@@ -10,4 +17,8 @@
             </g>
         </g>
     </g>
+<<<<<<< HEAD
 </svg>
+=======
+</svg>
+>>>>>>> cc2e6ed4bb994f521501d88133202e16ae28ad8f
