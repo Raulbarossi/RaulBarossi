@@ -92,9 +92,3 @@
     <img src="https://seeklogo.com/images/C/coreldraw-2019-logo-0B7C036A0A-seeklogo.com.png" alt="CorelDraw" width="auto" height="40"/> 
   </a>
 </p>
-  
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raulbarossi&show_icons=true&theme=dark&locale=en&layout=compact" alt="raulbarossi" />
-</p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raulbarossi&show_icons=true&theme=dark&locale=en" alt="raulbarossi" /></p>
