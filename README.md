@@ -20,9 +20,6 @@
   <a  href="https://linkedin.com/in/raulbarossi" style="text-decoration:none">
     <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="Linkedin Raul Barossi" height="40" width="auto"/>
   </a>
-  <a href="https://pt.stackoverflow.com/users/283641/raul-barossi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stakoverflow Brasil Raul Barossi" height="40" width="auto" />
-  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
