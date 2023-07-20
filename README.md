@@ -7,9 +7,9 @@
 <br>
 
 <p align="center"> 
-- 🔭 I’m currently working on <strong><a href="https://github.com/nrtsoftware/Artani">Artani</a></strong></p>
+- 🔭 I’m currently working on <strong><a href="https://github.com/nrtsoftware/Artani">a Event Saas and a CRM system</a></strong></p>
 <p align="center">
-- 🌱 I’m currently learning <strong>PHP, Laravel, and DevOps</strong></p>
+- 🌱 I’m currently learning <strong>JS, React, Next, Electron and Tailwind</strong></p>
 <p align="center">
 - 🤝 I’m looking for <strong>Job opportunities</strong></p>
 <p align="center">
@@ -34,6 +34,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="auto" height="40"/> 
   </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="python" width="auto" height="40"/> 
+  </a> 
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png" alt="python" width="auto" height="40"/> 
+  </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://static.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="auto" height="40"/> 
   </a>
