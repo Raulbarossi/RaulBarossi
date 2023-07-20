@@ -73,9 +73,9 @@
 
   <br>
    
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="./src/Docker.svg" alt="docker" width="auto" height="40"/> 
-  </a>
+  </a> -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="./src/AWS.svg" alt="AWS" width="auto" height="40"/> 
   </a>
