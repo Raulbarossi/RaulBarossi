@@ -77,16 +77,16 @@
     <img src="./src/Docker.svg" alt="docker" width="auto" height="40"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="auto" height="35"/> 
+    <img src="./src/AWS.svg" alt="AWS" width="auto" height="35"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="40"/> 
+    <img src="./src/Git.svg" alt="Git" width="auto" height="40"/> 
   </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/c91b59196d37255a465beff4ed87c2816d304640/src/Bash.svg" alt="bash" width="auto" height="40"/> 
+    <img src="./src//Bash.svg" alt="bash" width="auto" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blaok" rel="noreferrer"> 
-    <img fill="white" src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/ab05396168d6f6fc1b7ed9c087749a28ff3016ca/src/Linux.svg" alt="linux" width="auto" height="40"/> 
+    <img fill="white" src="./src/Linux.svg" alt="linux" width="auto" height="40"/> 
   </a>
   </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
