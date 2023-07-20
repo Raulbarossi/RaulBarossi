@@ -54,7 +54,8 @@
   
   <br>
 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  [link](https://www.w3schools.com/html/){:target="_blank"} 
     <img src="./src/html.svg" alt="Html5" width="auto" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
