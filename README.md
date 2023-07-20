@@ -68,7 +68,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="./src/Tailwind.png" alt="bulma" width="auto" height="40"/> 
+    <img src="./src/Tailwind.svg" alt="Tailwind" width="auto" height="40"/> 
   </a>
 
   <br>
