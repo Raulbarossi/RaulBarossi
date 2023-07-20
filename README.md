@@ -44,7 +44,7 @@
     <img src="./src/MySQL.svg" alt="MySql" width="auto" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="./src/mongodb.svg" alt="MongoDB" width="auto" height="40"/> 
+    <img src="./src/mongodb.svg" alt="MongoDB" width="30" height="40"/> 
   </a>
   
   <br>
