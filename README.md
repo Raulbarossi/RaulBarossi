@@ -59,7 +59,7 @@
     <img src="https://static.cdnlogo.com/logos/c/18/css.svg" alt="css3" width="auto" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-    <img src="./src/js.png" alt="javascript" width="auto" height="40"/> 
+    <img src="./src/Javascript-shield.svg" alt="javascript" width="auto" height="40"/> 
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="auto" height="40"/> 
