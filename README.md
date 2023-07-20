@@ -77,7 +77,7 @@
     <img src="./src/Docker.svg" alt="docker" width="auto" height="40"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="./src/AWS.svg" alt="AWS" width="auto" height="35"/> 
+    <img src="./src/AWS.svg" alt="AWS" width="auto" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="./src/Git.svg" alt="Git" width="auto" height="40"/> 
