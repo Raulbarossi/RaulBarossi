@@ -73,11 +73,11 @@
 
   <br>
    
-  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="./src/Docker.svg" alt="docker" width="auto" height="40"/> 
-  </a> -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="./src/Docker%20(1).svg" alt="docker" width="auto" height="40"/> 
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="./src/AWS.svg" alt="AWS" width="auto" height="40"/> 
+    <img src="./src/aws.png" alt="AWS" width="auto" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="./src/Git.svg" alt="Git" width="auto" height="40"/> 
