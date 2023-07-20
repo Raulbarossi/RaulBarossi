@@ -53,14 +53,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="../RaulBarossi/src/Tailwind.png" alt="bulma" width="auto" height="40"/> 
+    <img src="./src/Tailwind.png" alt="bulma" width="auto" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/df4f9a4939b393bdf91be61bd602bf1ca1e1d1de/src/MySQL.svg" alt="mysql" width="auto" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="auto" height="40"/> 
-  </a><br>
+  </a>
+  
+  <br>
 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="auto" height="40"/> 
@@ -83,7 +85,9 @@
   </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/3bb4708ad5e9efbec1d9a0d3047f8eb129aaf112/src/Matlab.svg" alt="matlab" width="auto" height="40"/> 
-  </a> <br>
+  </a>
+  
+  <br>
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="auto" height="40"/> 
