@@ -38,9 +38,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="python" width="auto" height="40"/> 
   </a> 
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
-    <div>
-    <g transform="translate(352.000000, 44.000000)"><path class="logoLine_vBks logo_zGer" d="M67.9100478,46.533669 C41.4232923,41.7095462 19.6934451,46.302143       11.3075829,60.8268822 C5.08594528,71.6030748 7.27151972,86.0067879 15.9285936,101.106252"></path><path class="logoLine_vBks logo_zGer" d="M30.2849913,120.46661 C41.243568,132.509273 55.7667544,144.206588 72.8846905,154.089633 C113.69002,177.648601 156.051349,183.283871 176.168455,169.566881"></path><circle class="logoCircle_IbGX logo_zGer" cx="185" cy="163" r="11"></circle><path class="logoLine_vBks logo_zGer" d="M168.712085,117.011934 C186.053192,96.5261231 192.894725,75.4688937 184.526327,60.9744031 C178.406575,50.3746817 165.18029,45.0644667 148.184837,44.8434393"></path><path class="logoLine_vBks logo_zGer" d="M123.879401,47.4832579 C107.838006,50.9201969 90.2641836,57.6854858 72.9698617,67.6703673 C30.9602155,91.9246478 4.57811277,127.105828 8.15869375,151.502356"></path><circle class="logoCircle_IbGX logo_zGer" cx="11" cy="163" r="11"></circle><path class="logoLine_vBks logo_zGer" d="M57.2996169,169.094663 C66.3669653,194.413962 81.1998943,210.912475 97.9595403,210.912475 C110.104945,210.912475 121.238508,202.248064 129.899251,187.841199"></path><path class="logoLine_vBks logo_zGer" d="M140.356454,163.91057 C145.161419,148.555719 147.938898,130.403455 147.938898,110.95376 C147.938898,63.2217718 131.210891,23.3038536 108.840161,13.3705693"></path><circle class="logoCircle_IbGX logo_zGer" cx="98" cy="12" r="11"></circle><circle class="logoFilled_d164 logo_zGer" cx="98" cy="112" r="10"></circle></g>
-      </div>
+    <img src="https://www.electronjs.org/assets/img/logo.svg" alt="sass" width="auto" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://static.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="auto" height="40"/> 
@@ -54,8 +52,8 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40"/> 
   </a>
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="auto" height="40"/> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="../RaulBarossi/src/Tailwind.png" alt="bulma" width="auto" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/df4f9a4939b393bdf91be61bd602bf1ca1e1d1de/src/MySQL.svg" alt="mysql" width="auto" height="40"/> 
