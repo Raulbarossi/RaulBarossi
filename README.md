@@ -7,11 +7,16 @@
 <br>
 
 <p align="center"> 
-- 🔭 I’m currently working on <strong><a href="https://github.com/nrtsoftware/Artani">a Event Saas and a CRM system</a></strong></p>
+- 🔭 I’m currently working on 
+  <strong>
+    <!-- <a href="https://github.com/nrtsoftware/Artani"> -->
+    a Event Saas and a CRM system <!-- </a> -->
+  </strong>
+</p> 
 <p align="center">
 - 🌱 I’m currently learning <strong>JS, React, Next, Electron and Tailwind</strong></p>
 <p align="center">
-- 🤝 I’m looking for <strong>Job opportunities</strong></p>
+- 🤝 I’m looking for <strong>Developer Opportunities</strong></p>
 <p align="center">
 - 📫 reach me on <strong><a href="mailto:raulb1007@gmail.com">raulb1007@gmail.com</a></strong></p>
 
@@ -90,18 +95,18 @@
   </a>
   </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/3bb4708ad5e9efbec1d9a0d3047f8eb129aaf112/src/Matlab.svg" alt="matlab" width="auto" height="40"/> 
+    <img src="./src/Matlab.svg" alt="matlab" width="auto" height="40"/> 
   </a>
   
   <br>
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="auto" height="40"/> 
+    <img src="./src/Photoshop.svg" width="auto" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="auto" height="40"/> 
+    <img src="./src/Illustrator.svg" alt="illustrator" width="auto" height="40"/> 
   </a>
   <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/C/coreldraw-2019-logo-0B7C036A0A-seeklogo.com.png" alt="CorelDraw" width="auto" height="40"/> 
+    <img src="./src/Coreldraw.svg" alt="CorelDraw" width="auto" height="40"/> 
   </a>
 </p>
