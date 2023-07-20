@@ -29,16 +29,13 @@
     <img src="./src/PHP%20elefante.svg" alt="php" width="auto" height="40"/> 
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="auto" height="40"/> 
+    <img src="./src/golang.svg" alt="go" width="auto" height="40"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="auto" height="40"/> 
+    <img src="./src/arduino.svg" alt="arduino" width="auto" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="auto" height="40"/> 
-  </a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="python" width="auto" height="40"/> 
+    <img src="./src/python.svg" alt="python" width="auto" height="40"/> 
   </a> 
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
     <img src="./src//Electron.svg" alt="sass" width="auto" height="40"/> 
@@ -53,19 +50,22 @@
   <br>
 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="auto" height="40"/> 
+    <img src="./src/html.svg" alt="html5" width="auto" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.cdnlogo.com/logos/c/18/css.svg" alt="css3" width="auto" height="40"/> 
+    <img src="./src/css.svg" alt="css3" width="auto" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-    <img src="./src/Javascript-shield.svg" alt="javascript" width="auto" height="40"/> 
+    <img src="./src/javascript.svg" alt="javascript" width="auto" height="40"/> 
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="./src/react.svg" alt="React" width="auto" height="40"/> 
+  </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="auto" height="40"/> 
+    <img src="./src/sass.svg" alt="sass" width="auto" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40"/> 
+    <img src="./src/Bootstrap.svg" alt="bootstrap" width="auto" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="./src/Tailwind.svg" alt="Tailwind" width="auto" height="40"/> 
