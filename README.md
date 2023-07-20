@@ -1,5 +1,5 @@
-<h1 align="center">Hey u 👋, I'm Raul Barossi</h1>
-<h3 align="center">A Developer and Mechatronics Engineer</h3>
+<h1 align="center">Sup 👋, I'm Raul Barossi</h1>
+<h3 align="center">A Developer and graduated Mechatronics Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=raulbarossi&label=Views&color=000000&style=plastic" alt="raulbarossi" /> 
@@ -7,18 +7,26 @@
 <br>
 
 <p align="center"> 
-- 🔭 I’m currently working on 
-  <strong>
-    <!-- <a href="https://github.com/nrtsoftware/Artani"> -->
-    a Event Saas and a CRM system <!-- </a> -->
-  </strong>
+- 🔭 Currently working on 
+  <strong>a Event Saas and a CRM system</strong>
 </p> 
+
 <p align="center">
-- 🌱 I’m currently learning <strong>JS, React, Next, Electron and Tailwind</strong></p>
+- 🌱 Actually learning 
+  <strong>Typescript, React, Next, Electron and Tailwind</strong>
+</p>
+
 <p align="center">
-- 🤝 I’m looking for <strong>Development Opportunities</strong></p>
+- 🤝 Looking for 
+  <strong>Development Opportunities</strong>
+</p>
+
 <p align="center">
-- 📫 reach me on <strong><a href="mailto:raulb1007@gmail.com">raulb1007@gmail.com</a></strong></p>
+- 📫 reach me on 
+  <strong>
+    <a href="mailto:raulb1007@gmail.com">raulb1007@gmail.com</a>
+  </strong>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="text-decoration:none">
