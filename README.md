@@ -60,8 +60,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="./src/css.svg" alt="Css3" width="auto" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-    <img src="./src/javascript.svg" alt="JavaScript" width="auto" height="40"/> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="./src/Typescript.svg" alt="TypeScript" width="auto" height="40"/> 
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="./src/react.svg" alt="React" width="auto" height="40"/> 
@@ -73,16 +73,16 @@
     <img src="./src/Bootstrap.svg" alt="Bootstrap" width="auto" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="./src/Tailwind.svg" alt="Tailwind" width="auto" height="40"/> 
+    <img src="./src/Tailwind.svg" alt="Tailwind" width="auto" height="35"/> 
   </a>
 
   <br>
    
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="./src/Docker%20(1).svg" alt="Docker" width="auto" height="40"/> 
+    <img src="./src/Docker%20(1).svg" alt="Docker" width="auto" height="35"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="./src/aws.png" alt="AWS" width="auto" height="40"/> 
+    <img src="./src/aws.png" alt="AWS" width="auto" height="35"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="./src/Git.svg" alt="Git" width="auto" height="40"/> 
