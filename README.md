@@ -74,7 +74,7 @@
   <br>
    
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/Raulbarossi/RaulBarossi/28351e659ef34a1bd03522b38175d51c9dbc580c/src/Docker.svg" alt="docker" width="auto" height="40"/> 
+    <img src="./src/Docker.svg" alt="docker" width="auto" height="40"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="auto" height="35"/> 
