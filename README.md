@@ -16,7 +16,7 @@
 <p align="center">
 - 🌱 I’m currently learning <strong>JS, React, Next, Electron and Tailwind</strong></p>
 <p align="center">
-- 🤝 I’m looking for <strong>Developer Opportunities</strong></p>
+- 🤝 I’m looking for <strong>Development Opportunities</strong></p>
 <p align="center">
 - 📫 reach me on <strong><a href="mailto:raulb1007@gmail.com">raulb1007@gmail.com</a></strong></p>
 
@@ -79,7 +79,7 @@
   <br>
    
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="./src/Docker%20(1).svg" alt="docker" width="auto" height="40"/> 
+    <img src="./src/Docker%20(1).svg" alt="Docker" width="auto" height="40"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="./src/aws.png" alt="AWS" width="auto" height="40"/> 
@@ -88,14 +88,13 @@
     <img src="./src/Git.svg" alt="Git" width="auto" height="40"/> 
   </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="./src//Bash.svg" alt="bash" width="auto" height="40"/> 
+    <img src="./src//Bash.svg" alt="Bash" width="auto" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blaok" rel="noreferrer"> 
-    <img fill="white" src="./src/Linux.svg" alt="linux" width="auto" height="40"/> 
+    <img fill="white" src="./src/Linux.svg" alt="Linux" width="auto" height="40"/> 
   </a>
-  </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="./src/Matlab.svg" alt="matlab" width="auto" height="40"/> 
+    <img src="./src/Matlab.svg" alt="Matlab" width="auto" height="40"/> 
   </a>
   
   <br>
