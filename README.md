@@ -8,12 +8,12 @@
 
 <p align="center"> 
 - 🔭 Currently working on 
-  <strong>a Event Saas and a CRM system</strong>
+  <strong>a Event Saas and a PDV system with Tauri(Rust) and React</strong>
 </p> 
 
 <p align="center">
 - 🌱 Actually learning 
-  <strong>Typescript, React, Next, Electron and Tailwind</strong>
+  <strong>Typescript, React, Tauri, Rust and Tailwind</strong>
 </p>
 
 <p align="center">
@@ -43,6 +43,9 @@
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="./src/golang.svg" alt="GoLang" width="auto" height="40"/> 
+  </a> 
+  <a href="https://www.rust-lang.org/pt-BR" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/376347/rust.svg" alt="RustLang" width="auto" height="40"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="./src/arduino.svg" alt="Arduino" width="auto" height="40"/> 
