@@ -31,7 +31,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="text-decoration:none">
   <a  href="https://linkedin.com/in/raulbarossi" style="text-decoration:none">
-    <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="Linkedin Raul Barossi" height="50" width="auto"/>
+    <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="Linkedin Raul Barossi" height="45" width="auto"/>
   </a>
 </p>
 
