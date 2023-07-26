@@ -45,7 +45,7 @@
     <img src="./src/golang.svg" alt="GoLang" width="auto" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org/pt-BR" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="RustLang" width="auto" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="RustLang" width="auto" height="40"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="./src/arduino.svg" alt="Arduino" width="auto" height="40"/> 
